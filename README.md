@@ -4,11 +4,17 @@ Primera Fase del Proyecto de Catedra de Desarrollo de Aplicaciones con Web Frame
 sistema de venta y administración de boletos aéreos, tales como:
 
 • Registro y gestión de aerolíneas
+
 • Creación de vuelos, rutas, horarios y tarifas
+
 • Administración de aviones y tripulación
+
 • Registro de pasajeros
+
 • Gestión de reservaciones, pagos y cancelaciones
+
 • Procesamiento de reclamos
+
 • Generación de estadísticas básicas (número de reservas, cancelaciones, etc.)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
