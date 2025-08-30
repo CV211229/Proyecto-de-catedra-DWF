@@ -37,9 +37,9 @@ Chavarria Velasquez, Manuel Alejandro - CV211229 GitHub (CV211229)
 
 Aguilar Cruz, Joel Ernesto - AC223047 GitHub (AC223047)
 
-Rodrigo Ernesto Escobar Rivas - ER222434 GitHub (XxRdorixX)
+Escobar Rivas, Rodrigo Ernesto - ER222434 GitHub (XxRdorixX)
 
-Francisco Jose Herrera Martinez - HM221408 (jose23herrera)
+Herrera Martinez,Francisco Jose - HM221408 GitHub (jose23herrera)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
